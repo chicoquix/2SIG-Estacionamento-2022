@@ -1,0 +1,2 @@
+# Requisitos
+Guardar somente arquivos que documentam os pedidos de desenvolvimento do projeto, os quais definem seu ESCOPO.
